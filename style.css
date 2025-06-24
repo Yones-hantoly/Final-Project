@@ -40,3 +40,6 @@ h1 {
     font-size: 16px;
     cursor: pointer;
 }
+.todo-input button:hover {
+    background-color: #008c9e;
+}
