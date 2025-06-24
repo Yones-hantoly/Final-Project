@@ -6,3 +6,19 @@ body {
     background-color: #f9f9f9;
     text-align: center;
 }  
+h1 {
+    margin-bottom: 20px    ;
+    color: #333;
+}
+.todo-input-container {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+}
+.todo-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
