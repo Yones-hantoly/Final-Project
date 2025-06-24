@@ -43,3 +43,10 @@ h1 {
 .todo-input button:hover {
     background-color: #008c9e;
 }
+.filter-buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    width: 80%;
+    margin: 20px auto;
+}
