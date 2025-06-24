@@ -63,3 +63,12 @@ h1 {
 .filter-buttons button:hover {
     background-color: #008c9e;
 }
+.tasks-container {
+    width: 80%;
+    height: 200px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 5px;
+    overflow-y: auto;
+    background-color: transparent;
+}
