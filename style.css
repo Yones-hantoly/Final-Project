@@ -10,3 +10,10 @@ h1 {
     margin-bottom: 20px    ;
     color: #333;
 }
+.todo-input-container {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+}
